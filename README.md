@@ -1,7 +1,0 @@
-[buchen.html](https://github.com/user-attachments/files/27583590/buchen.html)
-[geschichte.html](https://github.com/user-attachments/files/27583591/geschichte.html)[wirtschaft.html](https://github.com/user-attachments/files/27583599/wirtschaft.html)
-[style.css](https://github.com/user-attachments/files/27583598/style.css)
-[orte.html](https://github.com/user-attachments/files/27583596/orte.html)
-[infrastruktur.html](https://github.com/user-attachments/files/27583595/infrastruktur.html)
-[index.html](https://github.com/user-attachments/files/27583593/index.html)
-[impressum.html](https://github.com/user-attachments/files/27583592/impressum.html)
